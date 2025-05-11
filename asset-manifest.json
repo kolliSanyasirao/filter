@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2215b356.css",
+    "main.js": "/static/js/main.b6223b3e.js",
+    "static/media/INTERSTELLAR_LIVE.mp4": "/static/media/INTERSTELLAR_LIVE.a91a93cacaf35d05a646.mp4",
+    "static/media/EXPLAIN.mp4": "/static/media/EXPLAIN.9894602d50e7e61aa0fd.mp4",
+    "static/media/INTERSTELLAR_TEASER.mp4": "/static/media/INTERSTELLAR_TEASER.0d061c0fdaf52d5d41cf.mp4",
+    "static/media/INTERSTELLAR_TRAILER.mp4": "/static/media/INTERSTELLAR_TRAILER.5aabeecc8cb24a174183.mp4",
+    "static/media/INTERSTELLAR_EXPLAIN.mp4": "/static/media/INTERSTELLAR_EXPLAIN.d4a7d3a6c6b758f7df40.mp4",
+    "static/media/LIVEACTION.mp4": "/static/media/LIVEACTION.fe3ca9d2e3360f87754c.mp4",
+    "static/media/ANIMATED.mp4": "/static/media/ANIMATED.469085241d08e67e7315.mp4",
+    "static/media/REACTION.mp4": "/static/media/REACTION.c7062f9760214baf573c.mp4",
+    "static/media/TRAILER.mp4": "/static/media/TRAILER.212bbf198338801c9ba5.mp4",
+    "static/media/interstellar_trailer.jpg": "/static/media/interstellar_trailer.b9c438767035436d1972.jpg",
+    "static/media/interstellar_explained.jpg": "/static/media/interstellar_explained.07b7da4055b65b3c9053.jpg",
+    "static/media/interstellar_teaser.jpg": "/static/media/interstellar_teaser.ccbb39d8407cb2c02585.jpg",
+    "static/media/lionking_reaction.jpg": "/static/media/lionking_reaction.16b99ab0d845ad9cd00b.jpg",
+    "static/media/lion-king.png": "/static/media/lion-king.2f494e0549cea8bb9b24.png",
+    "static/media/movie_explain.jpg": "/static/media/movie_explain.0c11d6152f3e473a8225.jpg",
+    "static/media/interstellar_live.jpg": "/static/media/interstellar_live.cb6abd76e69d3c2c8b0f.jpg",
+    "static/media/lionking_liveaction.jpg": "/static/media/lionking_liveaction.ef72418961d342d9d535.jpg",
+    "static/media/lionking_trailer.jpg": "/static/media/lionking_trailer.dd436e734ca5700adc01.jpg",
+    "index.html": "/index.html",
+    "main.2215b356.css.map": "/static/css/main.2215b356.css.map",
+    "main.b6223b3e.js.map": "/static/js/main.b6223b3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2215b356.css",
+    "static/js/main.b6223b3e.js"
+  ]
+}
